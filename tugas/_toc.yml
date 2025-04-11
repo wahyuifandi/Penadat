@@ -4,7 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: Pendata.md
 - file: Data_Understanding.ipynb
 - file: LOF.ipynb
 - file: markdown-notebooks
